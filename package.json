@@ -1,0 +1,22 @@
+{
+  "name": "first_module",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibic/first_module.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "tibic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibic/first_module/issues"
+  },
+  "homepage": "https://github.com/tibic/first_module#readme"
+}
